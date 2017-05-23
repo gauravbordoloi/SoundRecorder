@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app -->
+    <string name="app_name">Sound Recorder</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developer_email">gauravbordoloi@gmonetix.com</string>
+    <string name="copyright">Copyright © 2017 GMONETIX. \nAll Right Reserved.</string>
+
+    <!-- tabs -->
+    <string name="tab_title_record">अभिलेख</string>
+    <string name="tab_title_saved_recordings">सहेजे गए रिकॉर्डिंग</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">रिकॉर्डिंग प्रारंभ हुई</string>
+    <string name="toast_recording_finish">रिकॉर्ड करने के लिए बचाया</string>
+    <string name="toast_file_delete">%1$s सफलतापूर्वक हटाया गया</string>
+    <string name="toast_file_exists">फ़ाइल %1$s पहले से ही मौजूद है। कृपया एक अलग फ़ाइल नाम चुनें.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">रिकॉर्डिंग...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">हटाने की पुष्टि करें...</string>
+    <string name="dialog_text_delete">क्या आप वाकई इस फाइल को हटाना चाहते हैं?</string>
+    <string name="dialog_title_share">फ़ाइल साझा करें</string>
+    <string name="dialog_title_rename">फाइल का नाम बदलो</string>
+    <string name="dialog_title_options">विकल्प</string>
+
+    <string name="dialog_file_share">फ़ाइल साझा करें</string>
+    <string name="dialog_file_rename">फाइल का नाम बदलो</string>
+    <string name="dialog_file_delete">फ़ाइल को हटाएं</string>
+    <string name="dialog_action_cancel">रद्द करना</string>
+    <string name="dialog_action_ok">ठीक</string>
+    <string name="dialog_action_yes">हाँ</string>
+    <string name="dialog_action_no">नहीं</string>
+
+    <string name="no_saved_recordings_message">कोई सहेजी गई रिकॉर्डिंग नहीं</string>
+    <string name="pause_recording_button">ठहराव</string>
+    <string name="resume_recording_button">बायोडाटा</string>
+    <string name="default_file_name">मेरे रिकॉर्डिंग</string>
+    <string name="record_prompt">रिकॉर्डिंग प्रारंभ करने के लिए बटन टैप करें</string>
+    <string name="record_in_progress">रिकॉर्डिंग</string>
+
+    <string name="send_to">भेजना</string>
+
+    <!-- settings pref -->
+    <string name="pref_group_app">ऐप विवरण</string>
+    <string name="pref_title_dev_email">डेवलपर ईमेल</string>
+    <string name="pref_title_copyright">कॉपीराइट</string>
+    <string name="pref_title_build">संस्करण बनाएँ</string>
+    <string name="pref_title_term">अवधि और नीतियां</string>
+
+    <!-- overflow menu -->
+    <string name="visit_our_site">हमें यात्रा</string>
+    <string name="visit_our_fb_page">हमारे फेसबुक पेज पर जाएं</string>
+    <string name="Subscribe_our_channel">हमारे चैनल की सदस्यता लें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+
+    <!-- ads -->
+    <string name="ad1_unit_id_MainActivity1">ca-app-pub-9556270719341003/7124605974</string>
+    <string name="ad1_unit_id_SettingsActivity1">ca-app-pub-9556270719341003/8601339176</string>
+
+</resources>

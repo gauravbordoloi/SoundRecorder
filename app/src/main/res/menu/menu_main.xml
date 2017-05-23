@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_menu_settings"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_settings"
+         />
+
+    <item
+        android:id="@+id/main_menu_visit_our_site"
+        android:title="@string/visit_our_site"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/main_menu_like_our_fb_page"
+        android:title="@string/visit_our_fb_page"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/main_menu_subscribe_our_chanel"
+        android:title="@string/Subscribe_our_channel"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/main_menu_rate_us"
+        android:title="@string/rate_us"
+        app:showAsAction="never"
+        />
+
+</menu>
